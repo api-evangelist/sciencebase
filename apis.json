@@ -1,0 +1,87 @@
+{
+    "name": "ScienceBase",
+    "description": "http:\/\/usgs.gov \u2014 The USGS serves the Nation by providing reliable scientific information to describe and understand the Earth; minimize loss of life and property from nature.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/920-sciencebase.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sciencebase\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ScienceBase",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/920-sciencebase.jpg",
+            "humanURL": "https:\/\/my.usgs.gov\/confluence\/display\/sciencebase\/ScienceBase\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sciencebase-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": " https:\/\/www.sciencebase.gov\/catalog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/usgs"
+        },
+        {
+            "type": "Email",
+            "url": "becker@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "abwade@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "cpuckett@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "mnewell@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "hhamilton@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "apdemas@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "dnoseral@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "gs-do-ocap-oc-east@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "jkfitzpatrick@usgs.gov"
+        },
+        {
+            "type": "Email",
+            "url": "dozman@usgs.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USGS"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/my.usgs.gov\/confluence\/display\/sciencebase\/ScienceBase\/"
+        }
+    ]
+}
