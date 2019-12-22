@@ -5,8 +5,8 @@
     "tags": [
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sciencebase\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -17,16 +17,15 @@
             "humanURL": "https:\/\/my.usgs.gov\/confluence\/display\/sciencebase\/ScienceBase\/",
             "baseURL": "",
             "tags": [],
-            "properties": [
-                {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sciencebase-openapi.json"
-                }
-            ]
+            "properties": []
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": " https:\/\/www.sciencebase.gov\/catalog"
